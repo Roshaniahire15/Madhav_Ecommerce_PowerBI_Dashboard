@@ -3,7 +3,7 @@ Power BI Dashboard
 
 **Objective:**
 
-Create a Power BI dashboard for the Madhav Store to track and analyze online sales nationwide. Deliver actionable insights on sales revenue, product performance, customer behaviour, and regional trends. Empower the owner with data-driven decision-making for enhanced e-commerce growth.
+Create a Power BI dashboard for the Madhav Store to track and analyze online sales across India. Deliver actionable insights on sales revenue, product performance, customer behaviour, and regional trends. Empower the owner with data-driven decision-making for enhanced e-commerce growth.
 
 **Project key points:**
 
